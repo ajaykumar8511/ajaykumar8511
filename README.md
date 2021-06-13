@@ -4,10 +4,10 @@
 ####  *I'm a **Good Son 😇, Developer 💻,** and **Quick Learner !!** ⚡*
 
 
-- 👨‍🎓  *I have completed my graduation in **M.Sc. (Computer Application & Information Technology)** .*
+- 👨‍🎓  *I have recently graduated in **Master of Science (Computer Application & Information Technology)** .*
 - 👨‍💻 *I’m interested in **Front-end devlopment** .*
 - 📚 *I’m currently learning **React Native** ,* 
-- 🥇 *I'm worked on **Angular, Node Js** and **Express JS** .*
+- 🥇 *I'm working on **Angular, Node Js** and **Express JS** .*
 
 
 ### Connect with me:
